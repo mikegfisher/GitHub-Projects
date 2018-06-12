@@ -11,4 +11,9 @@ The [Community Guidelines](https://github.com/mikegfisher/GitHub-Projects/commun
 Repos often represent either an entire app, or a system that is part of an app. In either case, [milestones](https://github.com/mikegfisher/GitHub-Projects/milestones) represent significant events in the life of a repo. Where this is a product/app milestone, or a new feature within a supporting system. Milestones are a great way to represent chunks of work that add new capabilities. 
 
 ## Projects
-Projects can be related to a single repo, or an entire organization. If you are using organization projects, then you can include issues from any repo within that organization. Either way though, notes can reference issues anywhere that the user has access to. So, notes are **perfect** for defining requirements. Take a look at the [sample project](https://github.com/mikegfisher/GitHub-Projects/projects/1) in this repo (check out the view for [all projects](https://github.com/mikegfisher/GitHub-Projects/projects) too).
+Projects can be related to a single repo, or an entire organization. If you are using organization projects, then you can include issues from any repo within that organization. Either way though, notes can reference issues anywhere that the user has access to. So, notes are **perfect** for defining requirements. Take a look at the [sample project](https://github.com/mikegfisher/GitHub-Projects/projects/1) in this repo (check out the view for [all projects](https://github.com/mikegfisher/GitHub-Projects/projects) too). 
+**Check out the following articles to help you get started!**
+- [Create a project board](https://help.github.com/articles/creating-a-project-board/)
+- [Manage automations](https://help.github.com/articles/about-automation-for-project-boards/)
+- [Add notes / cards](https://help.github.com/articles/adding-notes-to-a-project-board/)
+- [Add issues](https://help.github.com/articles/adding-issues-and-pull-requests-to-a-project-board/)
