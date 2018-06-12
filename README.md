@@ -4,6 +4,9 @@
 ### START HERE - basic GitHub
 The [Community Guidelines](https://github.com/mikegfisher/GitHub-Projects/community) outline how to build and maintain your repo so that it fosters a good community of contributors. It will walk you through important steps like setting up [issue templates](https://github.com/mikegfisher/GitHub-Projects/issues/new).
 
+#### Help Wanted / Good First Issue Labels
+[These labels](https://help.github.com/articles/helping-new-contributors-find-your-project-with-labels/) are great for helping users either who have downtime or maybe are new that want to contribute.
+
 #### Repo Milestones
 Repos often represent either an entire app, or a system that is part of an app. In either case, [milestones](https://github.com/mikegfisher/GitHub-Projects/milestones) represent significant events in the life of a repo. Where this is a product/app milestone, or a new feature within a supporting system. Milestones are a great way to represent chunks of work that add new capabilities. 
 
